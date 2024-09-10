@@ -1,7 +1,6 @@
-- 👋 Hi, I'm @Jhonatan-PS, a Front-End and Back-End software developer.
-- 🌱 I’m currently study Analisis y Desarrollo de Software in the Sena.
+<h1 align="center"> Hello, I'm Jhonatan</h1>
+<h3 align="center">Full-Stack Developer🚀</h3>
 
-<!---
-Jhonatan-PS/Jhonatan-PS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/jhonatan-pulido-soler-0280a8283/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
