@@ -17,7 +17,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,typescript,nodejs,express,py,flask,tensorflow,opencv,mysql,docker,androidstudio,postman,figma&perline=12"/>
   </a>
 </p>
-
-<hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-PS&layout=compact&theme=dark)
