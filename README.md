@@ -17,3 +17,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,typescript,nodejs,express,py,flask,tensorflow,opencv,mysql,docker,androidstudio,postman,figma&perline=12"/>
   </a>
 </p>
+
+<hr>
+
+<a href="https://github.com/Jhonatan-PS/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhonatan-PS&layout=compact&langs_count=8&card_width=320" />
+</a>
