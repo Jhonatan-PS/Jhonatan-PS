@@ -14,6 +14,6 @@
 <h2>Languages and Tools:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,jquery,nodejs,express,nestjs,react,py,flask,tensorflow,opencv,mysql,postgresql,docker,postman,androidstudio,figma&perline=12"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,jquery,nodejs,express,nestjs,react,py,flask,pandas,tensorflow,opencv,mysql,postgresql,docker,postman,androidstudio,figma&perline=12"/>
   </a>
 </p>
