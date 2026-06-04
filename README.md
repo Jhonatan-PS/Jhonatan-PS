@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Jhonatan</h1>
-<h2 align="center">Full-Stack Developer 🚀</h2>
+<h2 align="center">Software Developer | AI Solutions & Web Integration 🚀</h2>
 
 <a href="https://www.linkedin.com/in/jhonatan-pulido-soler-0280a8283/">     
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
